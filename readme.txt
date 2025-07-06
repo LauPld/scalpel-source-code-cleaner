@@ -1,4 +1,5 @@
 === Scalpel Source Code Cleaner ===
+Contributors: l0pld579
 Tags: gutenberg, disable, emojis, media elements, performance
 Requires at least: 4.0
 Tested up to: 6.8
