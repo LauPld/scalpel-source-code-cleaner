@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Scalpel Source Code Cleaner
- * Plugin URI:        https://github.com/LauPld/wp-scalpel
+ * Plugin URI:        https://github.com/LauPld/scalpel-source-code-cleaner
  * Description:       Remove Gutenberg styles, media elements, and emoji
  * Version:           1.0 
  * Author:            Laurent Poulard
