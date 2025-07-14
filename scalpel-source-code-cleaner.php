@@ -13,7 +13,7 @@
  */
 
 if (! defined('ABSPATH')) exit; 
-function salsoco_activate()
+function scalsoco_activate()
 {
 
     add_option('scalsoco_activated', 'scalpel-source-code-cleaner');
